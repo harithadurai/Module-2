@@ -12,18 +12,17 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 ```
-def calculate_modulo(a, b):
-    return a % b
-
-num1 = 17
-num2 = 5
-
-result = calculate_modulo(num1, num2)
-print(f"The modulo of {num1} and {num2} is {result}")
+def func(a,b):
+    return a/b
+a=int(input())
+b=int(input())
+print(func(a,b))
 ```
 
+
 ## Output
-The modulo of 17 and 5 is 2
+<img width="694" height="260" alt="image" src="https://github.com/user-attachments/assets/0b91b9f1-9141-4183-9bab-40a02895f84b" />
+
 
 ## Result
-Thus the Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator is successfully verified.
+Thus,the Python program that defines a function which accepts two values and returns their division using the / operator is created successfully.
