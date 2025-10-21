@@ -10,15 +10,18 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ```
-add = lambda a, b: a + b
-num1 = 7
-num2 = 5
+i=int(input())
+j=int(input())
+z=int(input())
 
-result = add(num1, num2)
-print(f"The sum of {num1} and {num2} is {result}")
+f = lambda a, b,c: a+b+c
+
+print(f(i, j,z))
 ```
 ## Output
-The sum of 7 and 5 is 12
+![image](https://github.com/user-attachments/assets/c67311de-5870-42b4-94bb-1b4c2fb0c356)
+
 
 ## Result
-Thus the write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum is verified successfully.
+
+Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
