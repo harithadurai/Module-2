@@ -36,6 +36,3 @@ else:
 
 ## Result
 Thus the python program to check the given number is a palindrome or not has been executed successfully.
-## Output
-
-## Result
