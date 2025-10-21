@@ -10,14 +10,17 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 ```
-num = 16
-binary_representation = bin(num)
-print("Binary representation of", num, "is", binary_representation)
+def decimal_to_binary(decimal_number):
+    return bin(decimal_number)
+decimal_number=int(input())
+binary_number=decimal_to_binary(decimal_number)
+print(binary_number)
 ```
 
-
 ## Output
-Binary representation of 16 is 0b10000
+<img width="767" height="261" alt="image" src="https://github.com/user-attachments/assets/a55dac95-8c29-439b-8b93-b4c97a9f5405" />
+
 
 ## Result
-Thus the Python program to convert the number **16** into its **binary representation** using built-in Python functions is successsfully output.
+The program successfully converts any given decimal number into its binary form.
+
