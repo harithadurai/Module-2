@@ -48,11 +48,7 @@ for row in triangle:
 ```
 
 ## Sample Output
-    1    
-   1 1   
-  1 2 1  
- 1 3 3 1 
-1 4 6 4 1
+   <img width="521" height="547" alt="image" src="https://github.com/user-attachments/assets/36271a7d-2343-4609-b0b8-044d9c5391f7" />
 
 ## Result
 Thus the project demonstrates a simple Python program to generate **Pascal’s Triangle**, where the number of rows is provided by the user is verified successfully.
